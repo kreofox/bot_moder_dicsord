@@ -7,7 +7,7 @@
 from pickle import TRUE
 
 
-TOKEN='MTAwNTQxNzEwMzUyNTk0NTQ4NA.GZTD78.pWNm8cV6Mogy4LSdLr5Lx4_3hVPZ3Fvrv9pnyI'
+TOKEN=''
 
 #Префикс для командыю.
 PREFIX='!'
@@ -21,7 +21,8 @@ DELETE_COMMANDS=True
 
 # ID роли, которая будет выдаваться участнику при муте. Для корректной работы роль не должна иметь права
 # "Отправлять сообщения" и "Отправлять TTS сообщения".
-MUTE_ROLE_ID = 1005798758841331782
+MUTE_ROLE_ID = 
+
 
 # Отправлять личные сообщения участникам при наказаниях и их отмене.
 SEND_PUNISHMENT_PERSONAL_MESSAGE = True
